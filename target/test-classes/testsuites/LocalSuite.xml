@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BVTS" verbose="1">
+    <test name="LOCAL TESTING">
+        <classes>
+            <class name="com.proquest.ipa.automation.tests.clients.getClientsSpecs"/>
+
+</classes>
+        </test>
+
+
+
+
+</suite>

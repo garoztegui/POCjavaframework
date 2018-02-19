@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<institutional_holdings>
+    <item type="electronic">
+        <title>Journal of The Association of Pediatric Oncology Nurses</title>
+        <issn></issn>
+        <coverage>
+            <portfolio_id>5349059970003656</portfolio_id>
+            <from>
+                <year>1984</year>
+            </from>
+            <to>
+                <year>1905</year>
+            </to>
+        </coverage>
+        <mms_id>9913394482603656</mms_id>
+        <collection>
+            <portfolio_id>5349059970003656</portfolio_id>
+            <selective>false</selective>
+        </collection>
+    </item>
+    <item type="electronic">
+        <title>Journal of The Association of Pediatric Oncology Nurses</title>
+        <coverage>
+            <portfolio_id>5349059970003656</portfolio_id>
+            <from>
+                <year>1984</year>
+            </from>
+            <to>
+                <year>1905</year>
+            </to>
+        </coverage>
+        <mms_id>9913394482603656</mms_id>
+        <collection>
+            <portfolio_id>5349059970003656</portfolio_id>
+            <selective>false</selective>
+        </collection>
+    </item>
+</institutional_holdings>

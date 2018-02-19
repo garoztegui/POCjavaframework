@@ -1,0 +1,33 @@
+<institutions>
+    <institution>
+        <alma_institution_code>TESTER352_INST</alma_institution_code>
+        <libraryname>Testing institution</libraryname>
+        <summonname>tester352</summonname>
+        <alma_base_url>cust99-na.alma.exlibrisgroup.com</alma_base_url>
+        <alma_default_language>EN</alma_default_language>
+        <proxy>
+            <url>http://www.01CRU_proxy_url.com</url>
+            <type></type>
+        </proxy>
+        <opac>
+            <name>SOA Catalog 01CRU_INST</name>
+            <url>http://www.summonalma2.com</url>
+        </opac>
+        <ip_addresses>
+            <range>
+                <begin/>
+                <end/>
+            </range>
+        </ip_addresses>
+        <locations>
+            <location>
+                <code>ML</code>
+                <name>Main Library</name>
+            </location>
+            <location>
+                <code>DRW</code>
+                <name>Dr. Who Library</name>
+            </location>
+        </locations>
+    </institution>
+</institutions>

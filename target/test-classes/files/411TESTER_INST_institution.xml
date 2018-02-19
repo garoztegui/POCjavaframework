@@ -1,0 +1,45 @@
+<institutions>
+    <institution>
+        <!--The unique identifier for an Alma Institution and included in XML filenames (Institution, holdings, catalog). Maps 1:1 -   Alma Institution Code: LibraryHash/LibraryID: Summon Instance   -->
+        <alma_institution_code>411TESTER_INST</alma_institution_code>
+        <libraryname>Test Automation Memorial Library</libraryname>
+        <!--The string displayed in the Summon Instance URL for the institution. This is typically the email domain for the institution. e.g. duke, usc  -->
+        <summonname>tester411</summonname>
+        <!--The institution specific Base URL for the Alma Link Resolver, MyAccount Link, Journal Search Link, and Inter-Library Loan Form Link  -->
+        <alma_base_url>https://cust99-na.alma.exlibrisgroup.com</alma_base_url>
+        <!--Language code passed with &language= parameter to Alma link resolver IF the language value cannot be gathered and passed from Summon UI language display settings  -->
+        <alma_default_language>EN</alma_default_language>
+        <proxy>
+            <url>http://www.NEW_proxy_url.com/NEW</url>
+            <type>EZProxy</type>
+        </proxy>
+        <opac>
+            <!--The library catalog name that will display in the "Source" field as a hyperlink in the preview pane and on the Summon Catalog detail page if enabled. E.g. Duke University Libraries Catalog. -->
+            <name>03TESTER Opac Name</name>
+            <url>http://www.OPAC_01BC.com</url>
+        </opac>
+        <ip_addresses>
+            <range>
+                <begin>89.89.89.89</begin>
+            </range>
+        </ip_addresses>
+        <!--Library Location Field Mapping to be included in XQuery for Catalog Ingest-->
+        <locationPublishing>Location</locationPublishing>
+        <librariesLocations>
+            <library>
+                <code>XER</code>
+                <name>Testing Library</name>
+                <locations>
+                    <location>
+                        <code>MN</code>
+                        <name>Test Automation Library</name>
+                    </location>
+                    <location>
+                        <code>HS</code>
+                        <name>Software Engineering Library</name>
+                    </location>
+                </locations>
+            </library>
+        </librariesLocations>
+    </institution>
+</institutions>

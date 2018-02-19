@@ -1,0 +1,311 @@
+<xml-fragment xmlns:xb="http://www.exlibris.com/repository/publish/primo/xmlbeans/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <xb:institutions>
+    <xb:institution>
+      <xb:alma_institution_code>01CCOC_INST</xb:alma_institution_code>
+      <xb:libraryname>City Colleges of Chicago</xb:libraryname>
+      <xb:summonname xsi:nil="true">summonalma5</xb:summonname>
+      <xb:alma_base_url>https://sqa-na02.alma.exlibrisgroup.com:443/</xb:alma_base_url>
+      <xb:alma_default_language>EN</xb:alma_default_language>
+      <xb:opac>
+        <xb:name xsi:nil="true"/>
+        <xb:url xsi:nil="true"/>
+      </xb:opac>
+      <xb:locations>
+        <xb:location>
+          <xb:code>AVI</xb:code>
+          <xb:name>Arturo Velasquez Institute</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>DA</xb:code>
+          <xb:name>Richard J. Daley College Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>HW</xb:code>
+          <xb:name>Harold Washington College Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>KK</xb:code>
+          <xb:name>Kennedy-King College Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>MX</xb:code>
+          <xb:name>Malcolm X College Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>OH</xb:code>
+          <xb:name>Olive-Harvey College Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>RES_SHARE</xb:code>
+          <xb:name>Resource Sharing Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>TR</xb:code>
+          <xb:name>Harry S. Truman College Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>WR</xb:code>
+          <xb:name>Wilbur Wright College Library</xb:name>
+        </xb:location>
+      </xb:locations>
+    </xb:institution>
+  </xb:institutions>
+  <xb:institutions>
+    <xb:institution>
+      <xb:alma_institution_code>01UTN_KNOXVILLE</xb:alma_institution_code>
+      <xb:libraryname>University of Tennessee, Knoxville</xb:libraryname>
+      <xb:summonname xsi:nil="true">summonalma6</xb:summonname>
+      <xb:alma_base_url>https://sqa-na02.alma.exlibrisgroup.com:443/</xb:alma_base_url>
+      <xb:alma_default_language>EN</xb:alma_default_language>
+      <xb:opac>
+        <xb:name xsi:nil="true"/>
+        <xb:url xsi:nil="true"/>
+      </xb:opac>
+      <xb:locations>
+        <xb:location>
+          <xb:code>AGVET</xb:code>
+          <xb:name>Pendergrass AgVetMed Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>BCC</xb:code>
+          <xb:name>Black Cultural Center</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>H</xb:code>
+          <xb:name>Hodges Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>HR</xb:code>
+          <xb:name>Z - Do Not Use - Hodges Reserve</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>HREF</xb:code>
+          <xb:name>Z - Do Not Use - Hodges Reference</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>MAIN</xb:code>
+          <xb:name>Z - Do Not Use - Hodges Ordering Unit</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>MED</xb:code>
+          <xb:name>Preston Medical Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>MUS</xb:code>
+          <xb:name>George F. DeVine Music Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>RES_SHARE</xb:code>
+          <xb:name>Resource Sharing Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>SC</xb:code>
+          <xb:name>Special Collections</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>ST</xb:code>
+          <xb:name>Hoskins Storage</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>SWN</xb:code>
+          <xb:name>Social Work, Nashville Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>UEL</xb:code>
+          <xb:name>University Electronic Library</xb:name>
+        </xb:location>
+      </xb:locations>
+    </xb:institution>
+  </xb:institutions>
+  <xb:institutions>
+    <xb:institution>
+      <xb:alma_institution_code>01ETSU_INST</xb:alma_institution_code>
+      <xb:libraryname>TBR Libraries NorthEast</xb:libraryname>
+      <xb:summonname xsi:nil="true">summonalma7</xb:summonname>
+      <xb:alma_base_url>https://sqa-na02.alma.exlibrisgroup.com:443/</xb:alma_base_url>
+      <xb:alma_default_language>EN</xb:alma_default_language>
+      <xb:opac>
+        <xb:name xsi:nil="true"/>
+        <xb:url xsi:nil="true"/>
+      </xb:opac>
+      <xb:locations>
+        <xb:location>
+          <xb:code>EMPTY</xb:code>
+          <xb:name>EMPTY</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>RES_SHARE</xb:code>
+          <xb:name>Resource Sharing Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>ea</xb:code>
+          <xb:name>ETSU Archives of Appalachia</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>em</xb:code>
+          <xb:name>ETSU Quillen College of Medicine Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>eo</xb:code>
+          <xb:name>ETSU OIT Lab Lucille Clement Hall</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>es</xb:code>
+          <xb:name>ETSU Sherrod Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>lrc</xb:code>
+          <xb:name>MSHA Learning Resources Center (LRC)</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>nblount</xb:code>
+          <xb:name>Northeast State at Blountville</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>nbristol</xb:code>
+          <xb:name>Northeast State at Bristol</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>neliz</xb:code>
+          <xb:name>Northeast State at Elizabethton</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>ngray</xb:code>
+          <xb:name>Northeast State at Gray</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>njc</xb:code>
+          <xb:name>Northeast State at Johnson City</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>nkche</xb:code>
+          <xb:name>Kingsport Center for Higher Education</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>nrcam</xb:code>
+          <xb:name>Regional Center for Applied Manufacturing - Kingsport</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>nrcat</xb:code>
+          <xb:name>Regional Center for Applied Technology - Kingsport</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>nrchp</xb:code>
+          <xb:name>Regional Center for Health Professions - Kingsport</xb:name>
+        </xb:location>
+      </xb:locations>
+    </xb:institution>
+  </xb:institutions>
+  <xb:institutions>
+    <xb:institution>
+      <xb:alma_institution_code>01COLSCHL_INST</xb:alma_institution_code>
+      <xb:libraryname>Colorado School of Mines</xb:libraryname>
+      <xb:summonname xsi:nil="true">summonalma8</xb:summonname>
+      <xb:alma_base_url>https://sqa-na02.alma.exlibrisgroup.com:443/</xb:alma_base_url>
+      <xb:alma_default_language>EN</xb:alma_default_language>
+      <xb:opac>
+        <xb:name xsi:nil="true"/>
+        <xb:url xsi:nil="true"/>
+      </xb:opac>
+      <xb:locations>
+        <xb:location>
+          <xb:code>MINES</xb:code>
+          <xb:name>Arthur Lakes Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>RES_SHARE</xb:code>
+          <xb:name>Resource Sharing Library</xb:name>
+        </xb:location>
+      </xb:locations>
+    </xb:institution>
+  </xb:institutions>
+  <xb:institutions>
+    <xb:institution>
+      <xb:alma_institution_code>01URI_INST</xb:alma_institution_code>
+      <xb:libraryname>University of Rhode Island Libraries</xb:libraryname>
+      <xb:summonname xsi:nil="true">summonalma9</xb:summonname>
+      <xb:alma_base_url>https://sqa-na02.alma.exlibrisgroup.com:443/</xb:alma_base_url>
+      <xb:alma_default_language>EN</xb:alma_default_language>
+      <xb:opac>
+        <xb:name xsi:nil="true"/>
+        <xb:url xsi:nil="true"/>
+      </xb:opac>
+      <xb:locations>
+        <xb:location>
+          <xb:code>EMPTY</xb:code>
+          <xb:name>Empty</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>FINE_ARTS</xb:code>
+          <xb:name>Fine Arts</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>MAIN</xb:code>
+          <xb:name>Carothers Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>PELL</xb:code>
+          <xb:name>Pell Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>PROVIDENCE</xb:code>
+          <xb:name>CCE Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>RES_SHARE</xb:code>
+          <xb:name>Resource Sharing Library</xb:name>
+        </xb:location>
+      </xb:locations>
+    </xb:institution>
+  </xb:institutions>
+  <xb:institutions>
+    <xb:institution>
+      <xb:alma_institution_code>01KSU_INST</xb:alma_institution_code>
+      <xb:libraryname>Kansas State University Libraries</xb:libraryname>
+      <xb:summonname xsi:nil="true">summonalma10</xb:summonname>
+      <xb:alma_base_url>https://sqa-na02.alma.exlibrisgroup.com:443/</xb:alma_base_url>
+      <xb:alma_default_language>EN</xb:alma_default_language>
+      <xb:opac>
+        <xb:name xsi:nil="true"/>
+        <xb:url xsi:nil="true"/>
+      </xb:opac>
+      <xb:locations>
+        <xb:location>
+          <xb:code>ANNEX</xb:code>
+          <xb:name>Annex</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>ARCH</xb:code>
+          <xb:name>Paul Weigel Library of Architecture, Planning &amp; Design</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>EMPTY</xb:code>
+          <xb:name>Empty</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>ENGR</xb:code>
+          <xb:name>Fiedler Engineering Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>MAIN</xb:code>
+          <xb:name>Hale Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>MATHPHYS</xb:code>
+          <xb:name>Math/Physics Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>RES_SHARE</xb:code>
+          <xb:name>Resource Sharing Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>SALINA</xb:code>
+          <xb:name>Kansas State Polytechnic Library</xb:name>
+        </xb:location>
+        <xb:location>
+          <xb:code>VETMED</xb:code>
+          <xb:name>Veterinary Medical Library</xb:name>
+        </xb:location>
+      </xb:locations>
+    </xb:institution>
+  </xb:institutions>

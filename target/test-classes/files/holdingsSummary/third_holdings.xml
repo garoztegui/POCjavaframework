@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<institutional_holdings>
+	<item type="electronic">
+		<title>Journal of The Association of Pediatric Oncology Nurses</title>
+		<issn>0748-1802</issn>
+		<coverage>
+			<portfolio_id>5349059970003656</portfolio_id>
+			<from>
+				<year>1984</year>
+			</from>
+			<to>
+				<year>1905</year>
+			</to>
+		</coverage>
+		<mms_id>9913394482603656</mms_id>
+		<collection>
+			<portfolio_id>5349059970003656</portfolio_id>
+			<selective>false</selective>
+		</collection>
+	</item>
+	<item type="electronic">
+		<title>Quality assurance and utilization review</title>
+		<issn>0885-713X</issn>
+		<coverage>
+			<portfolio_id>5349059940003656</portfolio_id>
+			<from>
+				<year>1986</year>
+			</from>
+			<to>
+				<year>1992</year>
+			</to>
+		</coverage>
+		<mms_id>9913394478403656</mms_id>
+		<collection>
+			<portfolio_id>5349059940003656</portfolio_id>
+			<db_id>.2G,.2G</db_id>
+			<selective>false</selective>
+		</collection>
+	</item>
+	<item type="electronic">
+		<title>J. second. gift. educ.</title>
+		<title>JSGE</title>
+		<title>The journal of secondary gifted education : JSGE.</title>
+		<title>The journal of secondary gifted education :</title>
+		<issn>1077-4610</issn>
+		<coverage>
+			<portfolio_id>5349059910003656</portfolio_id>
+			<from>
+				<year>1995</year>
+			</from>
+			<to>
+				<year>1998</year>
+			</to>
+		</coverage>
+		<mms_id>998939493403656</mms_id>
+		<collection>
+			<portfolio_id>5349059910003656</portfolio_id>
+			<db_id>LARAY</db_id>
+			<selective>false</selective>
+		</collection>
+	</item>
+	<item type="electronic">
+		<title>Small group behav.</title>
+		<title>Small group behavior.</title>
+		<issn>0090-5526</issn>
+		<coverage>
+			<portfolio_id>5349059880003656</portfolio_id>
+			<from>
+				<year>1973</year>
+			</from>
+			<to>
+				<year>1989</year>
+			</to>
+		</coverage>
+		<mms_id>991689993403656</mms_id>
+		<collection>
+			<portfolio_id>5349059880003656</portfolio_id>
+			<db_id>.2G,.2G</db_id>
+			<selective>false</selective>
+		</collection>
+	</item>
+	<item type="electronic">
+		<title>Hospitality education and research journal</title>
+		<issn>0741-5095</issn>
+		<coverage>
+			<portfolio_id>5349059850003656</portfolio_id>
+			<from>
+				<year>1905</year>
+			</from>
+			<to>
+				<year>1905</year>
+			</to>
+		</coverage>
+		<mms_id>9913394480703656</mms_id>
+		<collection>
+			<portfolio_id>5349059850003656</portfolio_id>
+			<db_id>.2G,.2G</db_id>
+			<selective>false</selective>
+		</collection>
+	</item><item type="electronic">
+	<title>Compensation Review</title>
+	<title>Compensation review.</title>
+	<title>Compens. rev. (Online)</title>
+	<title>Compens. rev.</title>
+	<title>COMPENS REV</title>
+	<issn>0010-4248</issn>
+	<coverage>
+		<portfolio_id>5349059820003656</portfolio_id>
+		<from>
+			<year>1969</year>
+		</from>
+		<to>
+			<year>1985</year>
+		</to>
+	</coverage>
+	<sfx_id>99954921339114</sfx_id>
+	<mms_id>9913386321403656</mms_id>
+	<collection>
+		<portfolio_id>5349059820003656</portfolio_id>
+		<db_id>.2G,.2G</db_id>
+		<selective>false</selective>
+	</collection>
+</item><item type="electronic">
+	<title>Evaluation quarterly</title>
+	<issn>0145-4692</issn>
+	<coverage>
+		<portfolio_id>5349059790003656</portfolio_id>
+		<from>
+			<year>1977</year>
+		</from>
+		<to>
+			<year>1905</year>
+		</to>
+	</coverage>
+	<mms_id>9913394477303656</mms_id>
+	<collection>
+		<portfolio_id>5349059790003656</portfolio_id>
+		<db_id>.2G,.2G</db_id>
+		<selective>false</selective>
+	</collection>
+</item>
+</institutional_holdings>

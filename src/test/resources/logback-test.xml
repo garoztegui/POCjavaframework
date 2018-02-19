@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+	<!-- Name of the context. Very handy to avoid log hijacking -->
+	<contextName>SummonOverAlmaUI</contextName>
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} %thread %-5level %logger{36} - %msg%n
+			</pattern>
+		</encoder>
+	</appender>
+
+	<!-- default all the rest to ThirdParty -->
+	<root level="INFO">
+		<appender-ref ref="STDOUT" />
+	</root>
+
+    <logger name="org.apache.http" level="INFO"/>
+
+</configuration>

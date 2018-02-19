@@ -1,0 +1,128 @@
+<institutions>
+	<institution>
+		<!--The unique identifier for an Alma Institution and included in XML filenames (Institution, holdings, catalog). Maps 1:1 -   Alma Institution Code: LibraryHash/LibraryID: Summon Instance   -->
+		<alma_institution_code>GASTEST_INST</alma_institution_code>
+		<libraryname>Test 1</libraryname>
+		<!--The string displayed in the Summon Instance URL for the institution. This is typically the email domain for the institution. e.g. duke, usc  -->
+		<summonname>gastestalma1</summonname>
+        <!--The institution specific Base URL for the Alma Link Resolver, MyAccount Link, Journal Search Link, and Inter-Library Loan Form Link  -->
+		<alma_base_url>cust99-na.alma.exlibrisgroup.com</alma_base_url>
+		<!--Language code passed with &language= parameter to Alma link resolver IF the language value cannot be gathered and passed from Summon UI language display settings  -->
+		<alma_default_language>EN</alma_default_language>
+		<proxy>
+			<url>http://www.01BC_proxy_url.com/01BC</url>
+			<type>EZProxy</type>
+		</proxy>
+		<opac>
+			<!--The library catalog name that will display in the "Source" field as a hyperlink in the preview pane and on the Summon Catalog detail page if enabled. E.g. Duke University Libraries Catalog. -->
+			<name>01BC Opac Name</name>
+			<url>http://www.OPAC_01BC.com</url>
+		</opac>
+		<ip_addresses>
+			<range>
+				<begin>107.181.27.0</begin>
+				<end>107.181.27.15</end>
+			</range>
+			<range>
+				<begin>188.100.0.101</begin>
+				<end>188.100.0.200</end>
+			</range>
+			<range>
+				<begin>85.85.85.85</begin>
+			</range>
+            <range>
+                <end>86.86.86.86</end>
+            </range>
+            <range>
+            <begin>87.87.87.87</begin>
+            <end></end>
+        </range>
+            <range>
+                <begin></begin>
+                <end>88.88.88.88</end>
+            </range>
+            <range>
+                <begin></begin>
+                <end></end>
+            </range>
+            <range>
+            </range>
+
+        </ip_addresses>
+        <!--Library Location Field Mapping to be included in XQuery for Catalog Ingest-->
+		<locations>
+			<location>
+				<code>MN</code>
+				<name>Main Library</name>
+			</location>
+			<location>
+				<code>HS</code>
+				<name>Health Sciences Library</name>
+			</location>
+		</locations>
+	</institution>
+	<institution>
+		<alma_institution_code>GASTEST2_INST</alma_institution_code>
+		<libraryname>TESTING INSTITUTION 1</libraryname>
+		<summonname>gastestalma2</summonname>
+		<alma_base_url>cust99-na.alma.exlibrisgroup.com</alma_base_url>
+		<alma_default_language>ES</alma_default_language>
+		<proxy>
+			<url>http://www.01BC_proxy_url.com/01BC</url>
+			<type>EZProxy</type>
+		</proxy>
+		<opac>
+			<name>TEST Opac Name</name>
+			<url>http://www.OPAC_01BC.com</url>
+		</opac>
+		<ip_addresses>
+			<range>
+				<begin>192.168.0.1</begin>
+				<end>192.168.0.101</end>			
+			</range>
+			<range>
+				<begin>188.100.0.101</begin>
+				<end>188.100.0.151</end>			
+			</range>
+			<range>
+				<begin>89.89.89.89</begin>		
+			</range>
+		</ip_addresses>
+		<locations>
+			<location>
+				<code>MN</code>
+				<name>Main Library</name>
+			</location>
+		</locations>
+	</institution>
+	<institution>
+		<alma_institution_code>GASTEST3_INST</alma_institution_code>
+		<libraryname>TESTING INSTITUTION 2</libraryname>
+		<summonname>gastestalma3</summonname>
+		<alma_base_url>cust99-na.alma.exlibrisgroup.com</alma_base_url>
+		<alma_default_language>ES</alma_default_language>
+		<proxy>
+			<url>http://www.01BC_proxy_url.com/01BC</url>
+			<type>EZProxy</type>
+		</proxy>
+		<opac>
+			<name>TEST2 Opac Name</name>
+			<url>http://www.OPAC_01BC.com</url>
+		</opac>
+		<ip_addresses>
+			<range>
+				<begin>192.168.0.1</begin>
+				<end>192.168.0.101</end>			
+			</range>
+		</ip_addresses>
+		<locations>
+			<location>
+				<code>MV</code>
+				<name>Montevideo Library</name>
+			</location>
+		</locations>
+	</institution>
+</institutions>
+
+		
+			

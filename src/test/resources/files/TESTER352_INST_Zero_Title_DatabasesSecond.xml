@@ -1,0 +1,17 @@
+<institutional_dbids xmlns="http://www.exlibris.com/repository/publish/primo/xmlbeans/">
+  <db_ids>
+    <dbidData>
+      <dbid>JZU</dbid>
+      <omitProxy>true</omitProxy>
+    </dbidData>
+    <dbidData>
+      <dbid>QSH</dbid>
+      <linkAuth>U: |@|</linkAuth>
+    </dbidData>
+    <dbidData>
+      <dbid>QSK</dbid>
+      <linkAuth>U: |@|</linkAuth>
+      <omitProxy>true</omitProxy>
+    </dbidData>
+  </db_ids>
+</institutional_dbids>

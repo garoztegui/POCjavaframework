@@ -1,0 +1,14 @@
+<institutional_dbids xmlns="http://www.exlibris.com/repository/publish/primo/xmlbeans/">
+  <db_ids>
+    <dbidData>
+      <dbid>3Z~</dbid>
+      <url>http://www.google.com</url>
+      <omitProxy>true</omitProxy>
+    </dbidData>
+    <dbidData>
+      <dbid>--A</dbid>
+      <linkAuth>U: |@|</linkAuth>
+    </dbidData>
+    <omitProxy>false</omitProxy>
+  </db_ids>
+</institutional_dbids>

@@ -1,0 +1,15 @@
+{
+    "responseType": "XML",
+    "enableJavascript": false,
+    "namespaces": {
+        "slim": "http://www.loc.gov/MARC21/slim"
+    },
+    "itemListPath": "//slim:record",
+    "itemPath": "slim:datafield[@tag='AVA']",
+    "locationPath": "slim:subfield[@code='c']//text()",
+    "statusPath": "slim:subfield[@code='e']//text()",
+    "statusMessagePath": "slim:subfield[@code='t']//text()",
+    "callNumberPath": "concat(slim:subfield[@code='q']//text(),', ', slim:subfield[@code='d']//text())",
+    "availableRegex": "available",
+    "notAvailableRegex": "unavailable"
+}

@@ -1,0 +1,14 @@
+  {
+    "availabilityLink": {
+      "url": "http://www.jeffh.com/view/publish_avail/X?op=publish_avail&library=JEFFH_INST&doc_num=${id}&profile=MARC_BIB_SUMMON"
+    },
+    "availabilityResponseParser": "com.proquest.magnolia.api.availability.parsers.XPathAvailabilityResponseParser",
+    "availabilityParserProperties": {
+      "responseType": "XML",
+      "enableJavascript": false,
+      "namespaces": {
+        "slim": "http://www.loc.gov/MARC21/slim"
+      },
+      "itemListPath": "//slim:record",
+      "itemPath": "slim:datafield[@tag='AVA']",
+      "locationPath": "slim:subfield[@code='c']//text()",

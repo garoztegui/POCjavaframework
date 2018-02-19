@@ -1,0 +1,18 @@
+[
+  {
+    "field": [
+      "Style",
+      "Permalink Color"
+    ],
+    "value": "#333333",
+    "type": "override"
+  },
+  {
+    "field": [
+      "Style",
+      "Permalink Hover Color"
+    ],
+    "value": "#333333",
+    "type": "override"
+  }
+]

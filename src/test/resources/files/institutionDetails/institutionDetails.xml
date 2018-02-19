@@ -1,0 +1,42 @@
+<institutions>
+    <institution>
+        <!--The unique identifier for an Alma Institution and included in XML filenames (Institution, holdings, catalog). Maps 1:1 -   Alma Institution Code: LibraryHash/LibraryID: Summon Instance   -->
+        <alma_institution_code>INSTDETAILS2_INST</alma_institution_code>
+        <libraryname>Institution to verify institution details</libraryname>
+        <!--The string displayed in the Summon Instance URL for the institution. This is typically the email domain for the institution. e.g. duke, usc  -->
+        <summonname>instdetails2</summonname>
+        <!--The institution specific Base URL for the Alma Link Resolver, MyAccount Link, Journal Search Link, and Inter-Library Loan Form Link  -->
+        <alma_base_url>https://cust99-na.alma.exlibrisgroup.com</alma_base_url>
+        <!--Language code passed with &language= parameter to Alma link resolver IF the language value cannot be gathered and passed from Summon UI language display settings  -->
+        <alma_default_language>EN</alma_default_language>
+        <proxy>
+            <url>http://www.NEW_proxy_url.com/NEW</url>
+            <type>EZProxy</type>
+        </proxy>
+        <opac>
+            <name>new opac</name>
+            <url>http://www.thenewopac.com</url>
+        </opac>
+        <ip_addresses>
+            <range>
+                <begin>89.89.89.89</begin>
+            </range>
+        </ip_addresses>
+        <!--Library Location Field Mapping to be included in XQuery for Catalog Ingest-->
+        <locationPublishing>Location</locationPublishing>
+        <librariesLocations>
+            <library>
+                <code>XER</code>
+                <name>Testing Library</name>
+                <locations>
+                    <location>
+                        <code>MN</code>
+                        <name>Test Automation Library</name>
+                    </location>
+
+                </locations>
+            </library>
+        </librariesLocations>
+    </institution>
+
+</institutions>

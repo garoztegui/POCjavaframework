@@ -1,0 +1,26 @@
+[
+  {
+    "field": [
+      "Widgets",
+      "Altmetrics Detail Page"
+    ],
+    "value": true,
+    "type": "override"
+  },
+  {
+    "field": [
+      "Widgets",
+      "Altmetrics Preview Pane"
+    ],
+    "value": true,
+    "type": "override"
+  },
+  {
+    "field": [
+      "Widgets",
+      "Altmetrics Search Results"
+    ],
+    "value": true,
+    "type": "override"
+  }
+]

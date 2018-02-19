@@ -1,0 +1,10 @@
+<locations>
+    <location>
+        <code>MN</code>
+        <name>Test Automation Library</name>
+    </location>
+    <location>
+        <code>HS</code>
+        <name>Software Engineering Library</name>
+    </location>
+</locations>

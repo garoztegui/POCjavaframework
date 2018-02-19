@@ -1,0 +1,105 @@
+[
+  {
+    "field": [
+      "Site",
+      "Authorized IP"
+    ],
+    "value": [
+      "89.89.89.89/32"
+    ],
+    "type": "override"
+  },
+  {
+    "field": [
+      "Site",
+      "Email"
+    ],
+    "value": "SITE_FEEDBACK_EMAIL_ADDY",
+    "type": "override"
+  },
+  {
+    "field": [
+      "Site",
+      "Enable Maverick"
+    ],
+    "value": true,
+    "type": "override"
+  },
+  {
+    "field": [
+      "Site",
+      "Favicon URL"
+    ],
+    "value": "http://assets.test.summon.serialssolutions.com/570c01f306c8fa2ae1000011",
+    "type": "override"
+  },
+  {
+    "field": [
+      "Site",
+      "Home"
+    ],
+    "value": "http://LIBRARY_WEBSITE_URL",
+    "type": "override"
+  },
+  {
+    "field": [
+      "Site",
+      "Large Logo URL"
+    ],
+    "value": "http://assets.summon.serialssolutions.com/4e302a36a61f86754e0000fb",
+    "type": "override"
+  },
+  {
+    "field": [
+      "Site",
+      "Link Resolver"
+    ],
+    "value": "https://cust99-na.alma.exlibrisgroup.com/discovery/openurl?institution=CUSTOMIZ2_INST&vid=CUSTOMIZ2_INST:Services&",
+    "type": "override"
+  },
+  {
+    "field": [
+      "Site",
+      "Small Logo URL"
+    ],
+    "value": "http://assets.summon.serialssolutions.com/4e302a31a61f86754e0000f9",
+    "type": "override"
+  },
+  {
+    "field": [
+      "Site",
+      "Title"
+    ],
+    "value": "",
+    "type": "override"
+  },
+  {
+    "field": [
+      "Site",
+      "Default Language"
+    ],
+    "value": "en",
+    "type": "override"
+  },
+  {
+    "field": [
+      "Site",
+      "Languages"
+    ],
+    "value": [
+      {
+        "name": "English",
+        "locale": "en"
+      }
+    ],
+    "type": "override"
+  },
+  {
+    "field": [
+      "Site",
+      "Customized Field"
+    ],
+    "value": "this is a customized value",
+    "type": "override"
+  }
+]

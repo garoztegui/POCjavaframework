@@ -8,12 +8,9 @@ import com.proquest.ipa.automation.framework.testData.ResponseFromApi;
 import com.proquest.ipa.automation.framework.tools.requests.APIRequest;
 import com.proquest.ipa.automation.framework.tools.utils.EntityMapper;
 import com.proquest.ipa.automation.framework.tools.utils.HttpUtils;
-import com.sun.tools.internal.xjc.reader.xmlschema.bindinfo.BIConversion;
 import org.apache.http.HttpResponse;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import java.util.List;
-
 
 
 public final class UserActions extends BaseAction {
@@ -25,8 +22,10 @@ public final class UserActions extends BaseAction {
     }
 
     private static HttpResponse getAndProcessResponse(HttpMethod method, String url) throws RestException {
-        HttpResponse response = httpUtils().getHttpResponse(APIRequest.with(method, url).addHeader("cookieString",
-                "id=5a3939a8e4b04a7edd418aac; user_token=a01025701ed2136d3610522e8ba0e745"));
+        HttpResponse response = httpUtils().getHttpResponse(APIRequest.with(method, url)
+                .addHeader("cookieString", "id=5afc345fe4b095c9bd81dcf9; user_token=38d7103d77f3307769abb85a89571ca3")
+                .addHeader("apiversion", "1")
+                .addHeader("appid", "me"));
         HttpUtils.getInstance().processExceptionResponse(response);
         return response;
     }

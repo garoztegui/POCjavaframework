@@ -7,7 +7,6 @@ import com.proquest.ipa.automation.framework.testData.ResponseFromApi;
 import com.proquest.ipa.automation.tests.BaseTest;
 
 import com.proquest.ipa.automation.framework.exceptions.RestException;
-import com.proquest.testrails.listeners.annotations.AddToTestRail;
 
 import org.testng.annotations.Test;
 
@@ -15,7 +14,7 @@ import static org.testng.AssertJUnit.assertFalse;
 import static org.testng.AssertJUnit.assertTrue;
 
 
-@AddToTestRail
+//@AddToTestRail
 public class getClientsSpecs extends BaseTest {
 
 
